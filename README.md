@@ -1,5 +1,6 @@
-# Machine Learning with SKLearn
-Machine Learning with Scikit Learn
+# Machine Learning with Scikit Learn 
+
+Machine Learning with Scikit Learn - a free Machine Learning library for Python. You can do a complete Machine Leaning project using the library with the features and functionalities it provides. Data Preprocessing, Feature Engineering, Model Creation, Model Evaluation, Hyper-Parameter Selection and many other ML Engineering processes can be performed using just this library. 
 
 ### Topics Covered :
 
