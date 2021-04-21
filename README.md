@@ -1,4 +1,4 @@
-# MachineLearningwithsklearn
+# Machine Learning with SKLearn
 Machine Learning with Scikit Learn
 
 ### Topics Covered :
