@@ -4,14 +4,12 @@ Machine Learning with Scikit Learn - a free Machine Learning library for Python.
 
 ### Topics Covered :
 
-1.  Logistic Regression
-2.  SVM
-3.  Naive Bayes
-4.  Decision Tree
-5.  GBDT
-6.  KMeans
-7.  Feature Engineering - Feature Selection, Feature Extraction, Dimension Reduction
-8.  Data Preprocessing
-9.  Model Evaluation
-10. Hyperparameter Tuning / Searching
-11. Simple Neural Network
+1.  Data Loading
+2.  Feature Engineering
+3.  Linear Regression
+4.  Logistic Regression
+5.  Support Vector Machine
+6.  Tree Model and Ensemble Method
+7.  Unsupervised Learning
+8.  Deep Learning ( Briefly )
+9.  Additionals
