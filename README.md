@@ -4,7 +4,7 @@ Machine Learning with Scikit Learn - a free Machine Learning library for Python.
 
 ### Topics Covered :
 
-1.  Data Loading
+1.  Data Loading and Preprocessing
 2.  Feature Engineering
 3.  Linear Regression
 4.  Logistic Regression
